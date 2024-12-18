@@ -82,10 +82,8 @@ deepspeed SFT.py --deepspeed ds_config.json \
 ```
 
 # Results
-#### MedMCQA test set ([available at Huggingface](https://huggingface.co/datasets/QIAIUNCC/EYE-MedMCQA-test))
-![MedMCQA Image](Figures/MedMCQA.png)
-#### PubMedQA test set ([available at Huggingface](https://huggingface.co/datasets/QIAIUNCC/EYE-PubMedQA-test))
-![PubMedQA Image](Figures/PubMedQA.png)
+#### MedMCQA test set ([available at Huggingface](https://huggingface.co/datasets/QIAIUNCC/EYE-MedMCQA-test)) and PubMedQA test set ([available at Huggingface](https://huggingface.co/datasets/QIAIUNCC/EYE-PubMedQA-test))
+![MedMCQA and PubMedQA Image](MedMCQA_PubMedQA.png)
 #### Samples of Synthetic dialogues set ([available at Huggingface](https://huggingface.co/datasets/QIAIUNCC/synthetic_dialogues))
 ![Synthetic dialogues Image](Figures/Synthetic_dialogues.png)
 #### 20-Question test set ([available at Huggingface](https://huggingface.co/datasets/QIAIUNCC/EYE-20-Question-test))
