@@ -87,10 +87,4 @@ deepspeed SFT.py --deepspeed ds_config.json \
 #### Samples of Synthetic dialogues set ([available at Huggingface](https://huggingface.co/datasets/QIAIUNCC/synthetic_dialogues))
 ![Synthetic dialogues Image](Figures/Synthetic_dialogues.png)
 #### 20-Question test set ([available at Huggingface](https://huggingface.co/datasets/QIAIUNCC/EYE-20-Question-test))
-| model | Score /200 | Alignment /20 | Grasped /20 | Irrelevant /20 | Relevant /20 | Harm /100|
-|-----------------|-------|-----------|---------|------------|----------|------|
-| Llama 2         | 100   | 12        | 20      | 19         | 17.25    | 54   |
-| I-llama-qa      | 81    | 8.5       | 19.5    | 18         | 15.5     | 61   |
-| I-llama-gqa     | 116   | 14        | 20      | 11.45      | 17.25    | 51   |
-| ChatDoctor      | 89.5  | 10        | 20      | 15         | 14.5     | 51   |
-| ChatGPT (GPT3.5)| 160   | 19        | 20      | 6          | 19.75    | 28   |
+![20-Question test set](Figures/20_question.png)
