@@ -1,6 +1,3 @@
-'''
-The sft script is adapted from PMC-LLaMA. Minor Changes are made to use QLoRA and the template prompt for Llama2-7b-chat.
-'''
 import copy
 import logging
 from dataclasses import dataclass, field
