@@ -88,3 +88,9 @@ deepspeed SFT.py --deepspeed ds_config.json \
 ![Synthetic dialogues Image](Figures/Synthetic_dialogues.png)
 #### 20-Question test set ([available at Huggingface](https://huggingface.co/datasets/QIAIUNCC/EYE-20-Question-test))
 ![20-Question test set](Figures/20_question.png)
+
+
+## License
+
+This code is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
+
