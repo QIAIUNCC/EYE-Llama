@@ -1,7 +1,7 @@
 # Eye_Llama, an in-domain large language model for ophthalmology
 This GitHub repository hosts “Eye-Llama”, a specialized large language model tailored for the field of ophthalmology. In this study, we trained and evaluated our models, EYE-Llama_qa and EYE-Llama_gqa, in comparison with baseline LLMs such as ChatGPT, ChatDoctor, and Llama 2. The evaluation was conducted using MCQA and open-ended QA datasets. Our results revealed that, upon fine-tuning, both EYE-Llama_qa and EYE-Llama_gqa models exhibited improvements over the respective base model. Specifically, EYE-Llama_gqa excelled in open-ended QA, while EYE-Llama_qa led in MCQA datasets. This enhancement allowed for higher accuracy in answering subspecialty MC and open-ended questions.
 
-![Overall_Framework_Eye_LLAMA Image](Figures/Overall_Framework_Eye_LLAMA.png)
+![Overall_Framework_Eye_LLAMA Image](Figures/Framework.png)
 
 We have made available the pretrained model, EYE-Llama_p, along with the fine-tuned models, EYE-Llama_qa and EYE-Llama_gqa. These models have exhibited significant improvements over the Llama 2 model and have outperformed ChatDoctor in various evaluations.
 | Model | Link | 
